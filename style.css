@@ -1,0 +1,7 @@
+.fstPage {
+    background-image:url("https://github.com/khalilcap/finalprojectcdptwo/blob/main/farmer.jpg");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
+}
